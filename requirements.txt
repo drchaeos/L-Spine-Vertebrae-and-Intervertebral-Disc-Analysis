@@ -1,0 +1,13 @@
+
+numpy
+pandas
+opencv-python-headless
+torch
+torchvision
+bcrypt
+tqdm
+matplotlib
+Pillow
+fastapi
+uvicorn
+python-multipart
